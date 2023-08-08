@@ -1,0 +1,8 @@
+D:\PhaseEND\course1\PhaseEndProj1\PhaseEndProj1\bin\Debug\PhaseEndProj1.exe.config
+D:\PhaseEND\course1\PhaseEndProj1\PhaseEndProj1\bin\Debug\PhaseEndProj1.exe
+D:\PhaseEND\course1\PhaseEndProj1\PhaseEndProj1\bin\Debug\PhaseEndProj1.pdb
+D:\PhaseEND\course1\PhaseEndProj1\PhaseEndProj1\obj\Debug\PhaseEndProj1.csproj.AssemblyReference.cache
+D:\PhaseEND\course1\PhaseEndProj1\PhaseEndProj1\obj\Debug\PhaseEndProj1.csproj.SuggestedBindingRedirects.cache
+D:\PhaseEND\course1\PhaseEndProj1\PhaseEndProj1\obj\Debug\PhaseEndProj1.csproj.CoreCompileInputs.cache
+D:\PhaseEND\course1\PhaseEndProj1\PhaseEndProj1\obj\Debug\PhaseEndProj1.exe
+D:\PhaseEND\course1\PhaseEndProj1\PhaseEndProj1\obj\Debug\PhaseEndProj1.pdb

@@ -1,0 +1,11 @@
+Step by Step process:
+
+1. Created a new project using the "Console App (.NET Framework)" template. 
+2. Program executed successfully. 
+3. Then go to top left > view > solution explorer > right click your project > open in file folder > right click > open gitbash here. 
+4. Initialized a Git repository, Added my files using git add . command. 
+5. And then committed my files 
+6. Created new repository and finally pushed my code to Github
+
+
+Github link:

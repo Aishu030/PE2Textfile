@@ -1,0 +1,4 @@
+30,Aishu,10,A
+13,Divija,8,A
+56,Sneha,11,A
+45,ilakkya,7,c
